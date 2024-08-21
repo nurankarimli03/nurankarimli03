@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nurankarimli03
+- 👋 Hi, I’m Nuran
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently exploring new techniques and tools to enhance my data analysis skills
 - 💞️ I’m looking to collaborate on data-driven projects, especially those related to business intelligence and predictive analytics
